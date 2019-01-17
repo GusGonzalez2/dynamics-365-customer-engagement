@@ -52,5 +52,9 @@ You can choose what users see and access from the **My Apps** page or the [!INCL
   
 5. Go to the **Apps Being Edited** view, and publish the app again.  
   
+  
+	    > [!NOTE]
+	    > In addition to the steps above, users must have Read permissions for **Model-driven App** under their security role (Customization tab) in order to access the custom app.
+  
 ### See also  
  [Design custom business apps by using the app designer](design-custom-business-apps-using-app-designer.md)
